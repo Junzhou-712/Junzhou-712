@@ -4,11 +4,11 @@
 
 I'm Junzhou Su(aka Joe Su), a student :computer: at University of Minnesota(Class of 2024), MN, US.
 
-- :hammer_and_pick:   
+## :hammer_and_pick: Skill  
 Web Programming: ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
 Competitive Programming: ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 Recent News: I am moving forward to dabble some Meta Language like OCaml and ReScript.
-- :runner:  
+## :runner:  Determination
  dreaming of becoming an execellent fullstack software developer, and learning everything regarding application development 
 ---
 
