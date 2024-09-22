@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" alt="zHou's github stats" src="https://github-readme-stats.vercel.app/api?username=Junzhou-712&show_icons=true">
 
-I'm Junzhou Su(aka Joe Su), a student :computer: at University of Minnesota(Class of 2024), MN, US.
+I'm Junzhou Su(aka Joe Su), a PhD student :computer: at University of Minnesota, MN, US.
 
 ### :hammer_and_pick: Skill  
 *Web Programming:* ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
